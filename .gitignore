@@ -109,3 +109,6 @@ datasets/
 *.h5
 *.jpg
 *.zip
+aclImdb*
+jena*
+glove*
