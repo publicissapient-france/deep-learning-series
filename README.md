@@ -22,3 +22,9 @@ pip install tensorflow
 pip install keras
 pip install jupyter
 ```
+
+## Avec Docker
+
+```
+docker-compose up
+```
